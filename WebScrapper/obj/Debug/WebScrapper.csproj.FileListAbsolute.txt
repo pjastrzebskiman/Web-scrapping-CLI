@@ -1,0 +1,11 @@
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\WebScrapper.exe.config
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\WebScrapper.exe
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\WebScrapper.pdb
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\obj\Debug\WebScrapper.exe
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\obj\Debug\WebScrapper.pdb
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csproj.CopyComplete
+C:\Users\Piotr\source\repos\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csprojAssemblyReference.cache
